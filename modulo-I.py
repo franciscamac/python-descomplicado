@@ -114,21 +114,21 @@ def subtracao():
     #ou
     b=5
     b = b-5 # Ou -->  b -= 5
-    print(f'Subtração de x é {x} e de c é {b}')
+    print(f'Subtração de x é {x} e de b é {b}')
 subtracao()
 def multiplicacao():
     x = 5*5
     #ou
     b=5
     b = b*5 # Ou -->  b *= 5
-    print(f'Multiplicação de x é {x} e de c é {b}')
+    print(f'Multiplicação de x é {x} e de b é {b}')
 multiplicacao()
 def divisao():
     x = 5/2
     #ou
     b=5
     b = b/2 # Ou -->  b /= 2
-    print(f'Divisao de x é {x} e de c é {b}')
+    print(f'Divisao de x é {x} e de b é {b}')
 divisao()
 
 
